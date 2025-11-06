@@ -20,3 +20,6 @@ The font is another key pillar. I selected the Roboto sans-serif font for its mo
 - Body text: Paragraphs are given a line height of 1.6 to ensure the text is spacious and easy to read.
 
 The layout is defined by a clear grid structure. Content is centered with containers that prevent it from stretching too much. Sections have vertical padding (5rem), which separates cleanly each part of the CV.
+
+This is the public link: https://pastorfaju.github.io/Hypermedia-Project-Part-1/
+This is the link to the figma project: https://www.figma.com/design/sUs3Bt7m9IOhNVWHQ1fCeY/CV-WEBSITE?node-id=0-1&t=q9ZQPtEJoskWUr3w-1
