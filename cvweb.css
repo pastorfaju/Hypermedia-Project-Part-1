@@ -11,7 +11,7 @@ html {
 
 body {
     font-family: 'Roboto', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-    color: #222;
+    color: #000;
     line-height: 1.6;
 }
 
@@ -349,4 +349,5 @@ ul { list-style: none; }
 .contact-info .info-item {
     font-size: 1.1rem;
     margin-bottom: 1.5rem;
+
 }
